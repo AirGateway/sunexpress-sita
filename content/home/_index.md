@@ -7,7 +7,7 @@ menueditprofile: Edit profile
 menulogout: Log out
 footerlegend: 'Powered by [SITA](https://airgateway.net)'
 account: Account
-jumbotitle: Airline portal for NDC devs
+jumbotitle: SunExpress portal for NDC devs
 viewapis: View Our APIs »
 backgroundimage: /images/bg_sunexpress.png
 ---
