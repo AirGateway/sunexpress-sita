@@ -1,5 +1,5 @@
 ---
-favicon: /images/sunexpress-logo.png
+favicon: /images/favicon.png
 favicon_width: 40
 favicon_height: 40
 menuapidashboard: API Dashboard
