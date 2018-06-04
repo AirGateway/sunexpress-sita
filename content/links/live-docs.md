@@ -1,9 +1,12 @@
 ---
-title: Live-docs NDC API sample requests
-description: Live-docs for our NDC API
+title: About NDC
+description: >-
+  A travel industry-supported program for the development and adoption of a new
+  data transmission standard
 date: 2017-07-31T10:59:56.000Z
 draft: false
-link: 'https://docs.airgateway.net/'
+link: >-
+  https://www.iata.org/whatwedo/airline-distribution/ndc/Documents/ndc-standard-presentation.pdf
 weight: 20
 readmore: Read More
 ---
