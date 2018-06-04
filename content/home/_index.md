@@ -1,5 +1,5 @@
 ---
-favicon: /images/favicon.png
+favicon: /images/sunexpres.png
 favicon_width: 40
 favicon_height: 40
 menuapidashboard: API Dashboard
